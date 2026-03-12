@@ -76,3 +76,4 @@ endmodule
 <img width="1612" height="837" alt="Screenshot 2026-03-12 110405" src="https://github.com/user-attachments/assets/52a190ba-cb94-4d94-9496-00a2f0902bfa" />
 
 **RESULTS**
+Thus the JK flipflop executed successfully.
